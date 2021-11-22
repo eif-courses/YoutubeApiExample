@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "913479802160",
+    "project_id": "apiexample-285df",
+    "storage_bucket": "apiexample-285df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913479802160:android:c77f37a6ec6a94c12f3cf5",
+        "android_client_info": {
+          "package_name": "eif.viko.lt.budget.best.youtubeapiexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913479802160-pi4hc5e229pa1v0cvoq9f0p3fr81ismm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4WjMKhggGiq0mX1VMIqIk4-rpQxe5xXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913479802160-pi4hc5e229pa1v0cvoq9f0p3fr81ismm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
